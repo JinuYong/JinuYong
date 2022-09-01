@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCBCB,100:FFEFEF&height=100&text=JINU%PARK&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCBCB,100:FFEFEF&text=JINU%PARK&fontSize=50" />
 
 <!-- <h1 align="center">JINU PARK</h5> -->
 
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white" />
 </div>
 <br />
-<br />
+
 <div align="center">
     <h5>- Back end</h5>
     <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white" />
@@ -24,3 +24,4 @@
     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=Spring Security&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 </div>
+<br />
