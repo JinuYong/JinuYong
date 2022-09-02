@@ -29,3 +29,9 @@
 <br />
 <h3>📁Project</h3>
 <li>서울에서 제주까지 : 여행사 사이트</li> -->
+<span>
+    <img src="https://github-readme-stats.vercel.app/api?username=JinuYong&count_private=true&show_icons=true&theme=buefy&title_color=FFCBCB&hide=issues,contribs">
+</span>
+<!-- <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinuYong&layout=compact">
+</span> -->
