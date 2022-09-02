@@ -33,5 +33,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JinuYong&count_private=true&show_icons=true&theme=buefy&title_color=FFCBCB&hide=issues,contribs">
 </a>
 <a href="https://github.com/JinuYong/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JinuYong&layout=compact&title_color=FFCBCB&card_width=300">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JinuYong&layout=compact&title_color=FFCBCB&card_width=250">
 </a>
