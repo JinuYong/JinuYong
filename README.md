@@ -33,5 +33,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=JinuYong&count_private=true&show_icons=true&theme=buefy&title_color=FFCBCB&hide=issues,contribs">
 </span>
 <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinuYong&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JinuYong&layout=compact&title_color=FFCBCB">
 </span>
