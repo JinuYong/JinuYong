@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCBCB,100:FFEFEF&text=JINU%PARK&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCBCB,100:FFEFEF&text=JINU&nbsp;PARK&fontSize=50" />
 
 <!-- <h1 align="center">JINU PARK</h5> -->
 
@@ -25,3 +25,7 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 </div>
 <br />
+<!-- <h1></h1>
+<br />
+<h3>📁Project</h3>
+<li>서울에서 제주까지 : 여행사 사이트</li> -->
