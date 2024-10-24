@@ -25,10 +25,9 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 </div>
 <br />
-<!-- <h1></h1>
-<br />
-<h3>📁Project</h3>
-<li>서울에서 제주까지 : 여행사 사이트</li> -->
+
+<img alt="commitmon" src="https://commitmon.me/adventure?username=JinuYong&theme=desert" width="600px" />
+
 
 <h1></h1>
 <br />
