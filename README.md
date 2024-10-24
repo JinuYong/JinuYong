@@ -26,8 +26,9 @@
 </div>
 <br />
 
-<img alt="commitmon" src="https://commitmon.me/adventure?username=JinuYong&theme=desert" width="600px" />
-
+<div align="center">
+    <img alt="commitmon" src="https://commitmon.me/adventure?username=JinuYong&theme=transparent" width="600px" />
+</div>
 
 <h1></h1>
 <br />
